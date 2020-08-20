@@ -374,4 +374,4 @@ questions:
 						File Access/NFS --> File gateway
 						Volumes/Block	--> Volume Gateway
 						VTL Tapes/iSCI 	--> Tape Gateway
-	AWS ElasticTranscoder --> Convert Media files(Video+Music). Fully managed pay per use
+	AWS ElasticTranscoder --> Convert Media files(Video +Music). Fully managed pay per use
