@@ -50,7 +50,7 @@ Paid tests Available over:
 
 Study Material 
 	Udemy: 			
-	PluralSight: 	Chandni-saxena  		Piechand@1926
+	PluralSight: 	Chandni-saxena  		
 ==============================================
 Sylabus
 	1) S3
